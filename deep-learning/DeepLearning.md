@@ -1,6 +1,9 @@
 # MLP:
 - *Refs*:
     - https://www.youtube.com/watch?v=A83BbHFoKb8
+    - https://www.perplexity.ai/search/finding-resource-explain-in-de-V4X94Y5cTNy33LVWoBUhJQ
+    - https://github.com/KirillShmilovich/MLP-Neural-Network-From-Scratch/blob/master/MLP.ipynb
+    - http://neuralnetworksanddeeplearning.com/chap1.html
 - *Cấu trúc*:
     - Input layers:
         - Lớp đầu tiên, nhận dữ liệu từ bên ngoài
@@ -42,3 +45,4 @@
     - Cập nhật trọng số:
 
         - Trọng số sẽ được cập nhật thông qua thuật toán gradient descent, sử dụng đạo hàm của hàm lỗi và learning rate (tốc độ học) để điều chỉnh trọng số sao cho mô hình học được các mối quan hệ trong dữ liệu.
+
