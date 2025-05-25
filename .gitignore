@@ -2,3 +2,4 @@
 **/__pycache__/
 *.py[cod]
 __pycache__/
+ml-models/decision-tree/__pycache__
